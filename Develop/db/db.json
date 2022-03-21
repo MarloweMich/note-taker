@@ -1,37 +1,22 @@
 [
     {
-        "title": "anothernotetitle4",
-        "text": "another note text4",
-        "id": "28cf"
+        "title": "Have Breakfast",
+        "text": "Important Meal\n",
+        "id": "c672"
     },
     {
-        "title": "anothernotetitle4",
-        "text": "another note text4",
-        "id": "f920"
+        "title": "Have Lunch ",
+        "text": "Also important meal",
+        "id": "d1a6"
     },
     {
-        "title": "anothernotetitle4",
-        "text": "another note text4",
-        "id": "da19"
+        "title": "Have Dinner",
+        "text": "It's nice",
+        "id": "7722"
     },
     {
-        "title": "anothernotetitle4",
-        "text": "another note text4",
-        "id": "1c49"
-    },
-    {
-        "title": "browersertitle",
-        "text": "brwosertesttext",
-        "id": "e061"
-    },
-    {
-        "title": "browsertitle2",
-        "text": "browsertext2",
-        "id": "097c"
-    },
-    {
-        "title": "bigbigbig",
-        "text": "bigbigbig",
-        "id": "a74c"
+        "title": "Eat Dessert",
+        "text": "Treat yourself",
+        "id": "879c"
     }
 ]

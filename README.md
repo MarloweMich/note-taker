@@ -2,6 +2,8 @@
 
   ##Description
   
+  - [Deployed Site Here](https://fantastic-note-taker.herokuapp.com/notes)
+
   - Access, create and delete notes as needed. All created notes are listed in the side while and can be accessed through clicking on them in the navbar.
   
   ##Usage
